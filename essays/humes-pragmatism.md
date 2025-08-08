@@ -64,7 +64,7 @@ After observing Hume’s argument in Treatise (1.3.6) we have seen that his argu
 
 ## Footnotes
 
-- [^treatise]: Hume, David. A Treatise of Human Nature. Ed. David F. Norton and Mary J. Norton. Oxford: Oxford UP, 2002.
-- [^mackey]: Mackey, Donald S. "Pragmatism." A History of Philosophical Systems. Ed. Vergilius Ferm. New York: The Philosophical Library, 1950. 387-404.
-- [^mathur]: Mathur, G B. "Hume and Kant in Their Relation to the Pragmatic Movement." Journal of the History of Ideas 16.2 (1955): 198-208. JSTOR.
+[^treatise]: Hume, David. A Treatise of Human Nature. Ed. David F. Norton and Mary J. Norton. Oxford: Oxford UP, 2002.
+[^mackey]: Mackey, Donald S. "Pragmatism." A History of Philosophical Systems. Ed. Vergilius Ferm. New York: The Philosophical Library, 1950. 387-404.
+[^mathur]: Mathur, G B. "Hume and Kant in Their Relation to the Pragmatic Movement." Journal of the History of Ideas 16.2 (1955): 198-208. JSTOR.
 

@@ -85,9 +85,9 @@ I have argued that Scientific Antirealists cannot accept the Realist definition 
 
 ## Footnotes
 
-- [^ibe-def]: "Inference to the Best Explanation." ISCID Encyclopedia of Science and Philosophy. 2005. International Society for Complexity, Information, and Design. 29 Apr. 2007 <http://www.iscid.org/encyclopedia/Inference_To_The_Best_Explanation>. ‘Inference to the Best Explanation’ will hereafter be referred to as IBE.
-- [^musgrave]: Musgrave, Alan. The Rutherford Journal - the New Zealand Journal for the History and Philosophy of Science and Technology. 2006. Dept. of Phil., University of Canterbury. 07 Apr. 2007. Also see Musgrave, Alan. "The ‘Miracle Argument’ for Scientific Realism." The Rutherford Journal 2 (2006). 8 Mar. 2007 <http://www.rutherfordjournal.org/article020108.html>.
-- [^miracle-arg]: The “Miracle Argument” label as used by Musgrave, op. cit.
-- [^truth-scheme]: Hereafter, I will refer the Realist definition of truth with the capitalized noun “Truth.” If you see the term “truth” without the capital ‘T’ I am attempting to differentiate it from “Truth.” The same goes for the terms “True” and “true”, “Truthfulness” and “truthfulness,” etc.
-- [^vanfrassen]: Van Frassen, Bas. The Scientific Image. Oxford: Clarendon P, 1980. 13.
-- [^analogy]: See above, Copernican vs. Ptolemaic Astronomy. 
+[^ibe-def]: "Inference to the Best Explanation." ISCID Encyclopedia of Science and Philosophy. 2005. International Society for Complexity, Information, and Design. 29 Apr. 2007 <http://www.iscid.org/encyclopedia/Inference_To_The_Best_Explanation>. ‘Inference to the Best Explanation’ will hereafter be referred to as IBE.
+[^musgrave]: Musgrave, Alan. The Rutherford Journal - the New Zealand Journal for the History and Philosophy of Science and Technology. 2006. Dept. of Phil., University of Canterbury. 07 Apr. 2007. Also see Musgrave, Alan. "The ‘Miracle Argument’ for Scientific Realism." The Rutherford Journal 2 (2006). 8 Mar. 2007 <http://www.rutherfordjournal.org/article020108.html>.
+[^miracle-arg]: The “Miracle Argument” label as used by Musgrave, op. cit.
+[^truth-scheme]: Hereafter, I will refer the Realist definition of truth with the capitalized noun “Truth.” If you see the term “truth” without the capital ‘T’ I am attempting to differentiate it from “Truth.” The same goes for the terms “True” and “true”, “Truthfulness” and “truthfulness,” etc.
+[^vanfrassen]: Van Frassen, Bas. The Scientific Image. Oxford: Clarendon P, 1980. 13.
+[^analogy]: See above, Copernican vs. Ptolemaic Astronomy. 

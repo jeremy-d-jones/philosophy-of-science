@@ -40,6 +40,6 @@ Ultimately, both theories fall short of the actual nature of communication.  Cer
 
 ## Footnotes
 
-- [^russell-refs]: Russell, Bertrand. “On Denoting.” Analytic Philosophy: An Anthology. (2001): 32-40.
-- [^strawson-ref]: Strawson, P.F. “On Reference.” Analytic Philosophy: An Anthology. (2001): 41-54.
-- [^strawson-essay]: Strawson, P.F. “On Reference.” Analytic Philosophy: An Anthology. (2001): 41-54.
+[^russell-refs]: Russell, Bertrand. “On Denoting.” Analytic Philosophy: An Anthology. (2001): 32-40.
+[^strawson-ref]: Strawson, P.F. “On Reference.” Analytic Philosophy: An Anthology. (2001): 41-54.
+[^strawson-essay]: Strawson, P.F. “On Reference.” Analytic Philosophy: An Anthology. (2001): 41-54.

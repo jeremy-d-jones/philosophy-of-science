@@ -40,5 +40,5 @@ Quine, W.V.  Two Dogmas of Empiricism. Analytic Philosophy: An Anthology: Blackw
 
 ## Footnotes
 
-- [^kripke]: Kripke, Saul. Naming and Necessity. Harvard University Press, 1980.
-- [^quine]: Quine, W.V.O. “Two Dogmas of Empiricism.” In Analytic Philosophy: An Anthology. Blackwell P, 2001. 450–462.
+[^kripke]: Kripke, Saul. Naming and Necessity. Harvard University Press, 1980.
+[^quine]: Quine, W.V.O. “Two Dogmas of Empiricism.” In Analytic Philosophy: An Anthology. Blackwell P, 2001. 450–462.

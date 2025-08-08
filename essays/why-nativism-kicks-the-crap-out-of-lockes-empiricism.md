@@ -43,5 +43,5 @@ His attempt to use Ockham’s razor to shave away the innate knowledge theory wa
 
 ## Footnotes
 
-- [^nativism]: The theory that there are innate ideas is called nativism.
-- [^cat-bundle]: For example, the bundle of qualities belonging to a cat includes fur, rough tongue, and a meowing sound.
+[^nativism]: The theory that there are innate ideas is called nativism.
+[^cat-bundle]: For example, the bundle of qualities belonging to a cat includes fur, rough tongue, and a meowing sound.
