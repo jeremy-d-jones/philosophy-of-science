@@ -74,13 +74,13 @@ Irwin’s third criticism compares the elenchus-as-craft to the craft of shoemak
 
 So far Irwin has claimed that the craft analogy presented in the Socratic dialogues is not compatible with TOR presented in Meno and Phaedo because (1) the goal of moral knowledge cannot be known independent of knowledge of virtue and...(2) because Socrates apparently denies that craft knowledge is possible in the Meno and Phaedo and…(3) because the craft analogy cannot support an analogy between the elenchus and shoemaking.  In reply to (1) I have shown that virtue (the goal of moral knowledge) can be known independent of knowledge of virtue via true belief.  In reply to (2) I have shown that Socrates does not deny craft knowledge, but instead denies knowledge altogether in this world.  Rather than aiming at craft knowledge Socrates was always aiming at craft-true belief.  In reply to (3) I have merely stated that this is a weak objection and met it with a weak answer.  As far as Irwin can deny the analogy unsupported, I can affirm it unsupported.      
 
-[^1]  Laches 185d-e;  Hippias Minor 275d-276b;  Charmidies 174e-175a;  Etuhydemus 291b-292d; and  Gorgias 460b.  
-[^2]  Hereafter, referred to as TOR.
-[^3]  Cohen, Marc. "Meno's Paradox." American Academy of Religion. 11 Dec. 2000. University of Washington. 16 Mar. 2006 <http://www.aarweb.org/syllabus/syllabi/c/cohen/phil320/menopar.htm>.
-[^4]  I call it innate knowledge to avoid the argument about how it was placed within the individual.  It could be from previous learning or from a deity but Socrates presupposes this knowledge in the individual.  
-[^5]  By Socratic dialogues Irwin means the following: Apology, Crito, Euthyphro, Charmides, Laches, Lysis, Euthydemus, and Hippias Minor.
-[^6]  See argument above offered by Irwin that Socrates believes the elenchus to be a craft.  
-[^7]  Irwin quotes Meno 81d4-5, 87b6-8, and 98a.
-[^8]  When I say that Plato believes in TOR, I mean that to say that he is replacing the craft analogy with TOR.  
-[^9]  Euthydemus 278e3, 282a1-7;  Charmidies 174b11-13, 175e5-176a1.
-[^10] “Perfect” could mean many things.  Good for running, climbing, or pleasing to the eye, etc…  The point is that the artisan has an ideal.  Whether or not that ideal can be objectively considered “perfect” is irrelevant.  
+[^1]: Laches 185d-e;  Hippias Minor 275d-276b;  Charmidies 174e-175a;  Etuhydemus 291b-292d; and  Gorgias 460b.  
+[^2]: Hereafter, referred to as TOR.
+[^3]: Cohen, Marc. "Meno's Paradox." American Academy of Religion. 11 Dec. 2000. University of Washington. 16 Mar. 2006 <http://www.aarweb.org/syllabus/syllabi/c/cohen/phil320/menopar.htm>.
+[^4]: I call it innate knowledge to avoid the argument about how it was placed within the individual.  It could be from previous learning or from a deity but Socrates presupposes this knowledge in the individual.  
+[^5]: By Socratic dialogues Irwin means the following: Apology, Crito, Euthyphro, Charmides, Laches, Lysis, Euthydemus, and Hippias Minor.
+[^6]: See argument above offered by Irwin that Socrates believes the elenchus to be a craft.  
+[^7]: Irwin quotes Meno 81d4-5, 87b6-8, and 98a.
+[^8]: When I say that Plato believes in TOR, I mean that to say that he is replacing the craft analogy with TOR.  
+[^9]: Euthydemus 278e3, 282a1-7;  Charmidies 174b11-13, 175e5-176a1.
+[^10]: “Perfect” could mean many things.  Good for running, climbing, or pleasing to the eye, etc…  The point is that the artisan has an ideal.  Whether or not that ideal can be objectively considered “perfect” is irrelevant.  
