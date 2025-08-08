@@ -6,6 +6,15 @@ date: "2006-09-29"
 slug: "why-nativism-kicks-the-crap-out-of-lockes-empiricism"
 draft: false
 ---
+<link rel="stylesheet" href="/assets/style.css">
+<header class="paper-header">
+  <h1>{{ page.title }}</h1>
+  <p>
+    <span class="author">{{ page.author }}</span><br/>
+    <span class="course">{{ page.course }}</span><br/>
+    <span class="date">{{ page.date | date: "%−d %B %Y" }}</span>
+  </p>
+</header>
 
 Jeremy Jones
 Empiricism

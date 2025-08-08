@@ -6,6 +6,15 @@ date: "2006-03-05"
 slug: "strawson-and-definite-description"
 draft: false
 ---
+<link rel="stylesheet" href="/assets/style.css">
+<header class="paper-header">
+  <h1>{{ page.title }}</h1>
+  <p>
+    <span class="author">{{ page.author }}</span><br/>
+    <span class="course">{{ page.course }}</span><br/>
+    <span class="date">{{ page.date | date: "%−d %B %Y" }}</span>
+  </p>
+</header>
 
 Jeremy Jones
 Anglo-American Philosophy
@@ -25,7 +34,7 @@ For example, when someone states “the king of France is wise” Russell believ
 Any statement of Strawson’s view must begin with his outline of the differences between a sentence, its use, and its utterances.  A sentence is any collection of words in a particular language suitably arranged for interpretation by another individual.  A sentence can be spoken at different times and in different places both about the same subject and about different subjects.  Sentence S could be false now while being true when a French monarch existed.  On both occasions S is the same but the truth value is not.  So, contrary to Russell’s view, a sentence does not possess any truth value.  
 An expression is the referent component of a sentence.  In S, the expression is “the king of France.”  We can outline the differences between expressions, their utterances, and usages in the same way we do for sentences.  An expression does not refer to an individual entity since the same expression can be used to refer to many entities.  So, contrary to Russell’s view, an expression does not possess any reference.  
 A sentence may be used to make a true or false proposition.  Likewise, an expression may be used to refer to an individual entity.  Hence, truth values and references belong to the use of sentences and expressions, not to the sentences and expressions themselves.  But if truth value and reference do not belong to sentences and expressions, how can they be considered meaningful?  
-Meaningfulness is a function of the sentence or expression.  Meaning is something we attach to sentences and expressions via context.  Without the framework of context we cannot attach a meaning to any propositions.  What we attach to sentences and expressions are “general directions for the use of [the] sentence [or expression]…in making true or false ascertains [and] referring to particular objects or persons”, respectively.  Hence, the meaning of a particular sentence “cannot be identified with the assertion it is used, on a particular occasion, to make.”  Likewise, the meaning of an expression cannot be identified with “the object it is used, on a particular occasion, to refer to.”[^strawson-essay]       
+Meaningfulness is a function of the sentence or expression.  Meaning is something we attach to sentences and expressions via context.  Without the framework of context we cannot attach a meaning to any propositions.  What we attach to sentences and expressions are “general directions for the use of [the] sentence [or expression]…in making true or false ascertains [and] referring to particular objects or persons”, respectively.  Hence, the meaning of a particular sentence “cannot be identified with the assertion it is used, on a particular occasion, to make.”  Likewise, the meaning of an expression cannot be identified with “the object it is used, on a particular occasion, to refer to.”[^strawson-ref]       
 ## III. My View
 
 Russell and Strawson disagree on the nature of meaning.  Particularly, how meaning is applied to propositions.  Russell believes that meaning is tied to the logical description of a particular object. Strawson maintains that meaning is driven via context.  Contrary to Strawson, Russell believes all sentences are necessarily meaningful.  Russell maintains that when I make a proposition about a particular entity I unwittingly assert the existence of that particular entity.  Strawson maintains that when I make a proposition about a particular entity I have implied that particular entity’s existence.    
@@ -37,5 +46,4 @@ Ultimately, both theories fall short of the actual nature of communication.  Cer
 ## Footnotes
 
 [^russell-refs]: Russell, Bertrand. “On Denoting.” Analytic Philosophy: An Anthology. (2001): 32-40.
-[^strawson-ref]: Strawson, P.F. “On Reference.” Analytic Philosophy: An Anthology. (2001): 41-54.
-[^strawson-essay]: Strawson, P.F. “On Reference.” Analytic Philosophy: An Anthology. (2001): 41-54.
+[^strawson-ref]: Strawson, P.F. “On Referring.” Analytic Philosophy: An Anthology. (2001): 41-54.

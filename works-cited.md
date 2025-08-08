@@ -10,9 +10,10 @@
 
 5. **Locke, J.** [*An Essay Concerning Human Understanding.* Book II, Chapter xxiii, Section 1](https://www.gutenberg.org/ebooks/10615). *(1690)*
 
-6. **Hume, David.** [*A Treatise of Human Nature.*](https://davidhume.org/texts/tn) Ed. David F. Norton and Mary J. Norton. Oxford: Oxford UP, 2002. *(Original work published 1739–1740)*
+6. **Hume, David.** [*A Treatise of Human Nature.*]. Ed. David F. Norton and Mary J. Norton. Oxford: Oxford UP, 2002. 
+*Original Text (https://davidhume.org/texts/t/full)*
 
-7. **Russell, Bertrand.** [“On Denoting”](https://www.jstor.org/stable/20100117). *Analytic Philosophy: An Anthology* (2001): 32–40. *(Original work published 1905)*
+7. **Russell, Bertrand.** [“On Denoting”]. *Analytic Philosophy: An Anthology* (2001): 32–40. *Original Text (https://www.jstor.org/stable/2248381)*
 
 8. **Strawson, P.F.** ["On Reference"](https://philpapers.org/rec/STRAOR). *Analytic Philosophy: An Anthology* (2001): 41–54. *(Original work published 1950)*
 
