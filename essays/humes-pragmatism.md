@@ -56,11 +56,6 @@ After observing Hume’s argument in Treatise (1.3.6) we have seen that his argu
 
 
 
-## Works Cited
-- Garrett, Don. Cognition and Commitment in Hume's Philosophy. New York: Oxford UP, 1997. 
-- Hume, David. A Treatise of Human Nature. Ed. David F. Norton and Mary J. Norton.  Oxford: Oxford UP, 2002. 
-- Mackey, Donald S. "Pragmatism." A History of Philosophical Systems. Ed. Vergilius Ferm. New York: The Philosophical Library, 1950. 387-404.
-- Mathur, G B. "Hume and Kant in Their Relation to the Pragmatic Movement." Journal of the History of Ideas 16.2 (1955): 198-208. JSTOR. University of Oklahoma. Norman. 07 Dec. 2006 <http://links.jstor.org/sici?sici=0022-5037%28195504%2916%3A2%3C198%3AHAKITR%3E2.0.CO%3B2-M>
 
 ## Footnotes
 

@@ -27,19 +27,6 @@ If Locke means that the additional “faculty” of the mind has access to some 
 Locke’s argument against nativism is not effective.  He does succeed in disproving universal consent but this only proves that there is no universal consent.  The necessary assumption to Locke’s argument was “all knowledge is set before the mind’s eye.”  But we have seen how memory allows unconscious knowledge to be both in the mind and be unconscious at the same time.  Therefore, if we adopt the position that we have memory we must believe that unconscious knowledge is possible.  Since Locke endorses the idea that we possess the faculty of memory, he cannot claim all knowledge to be conscious.  Since his argument against universal consent requires that all knowledge be conscious, his argument against nativism fails.    
 His attempt to use Ockham’s razor to shave away the innate knowledge theory was equally ineffective.  Locke cannot empirically account for human knowledge of substance.  Yet, his entire argument is intended to show that he can account for all human knowledge.  Locke’s empiricism can account for where our knowledge originated but fails to account for all the knowledge we possess.  Conversely, nativism fails to clearly account for where our knowledge originated but it can account for the possession of all our knowledge.  Therefore, each theory is insufficient to be considered a complete theory of knowledge.  As yet, any claim to empiricism’s superiority to nativism is entirely misguided when using parsimony as the standard of excellence.  Due to Locke’s inability to account for the human idea of substance, and the nativist’s ability to account for substance, we can consider nativism on par with empiricism.  Furthermore, do to Locke’s lack of a proper explanation of how all knowledge can be conscious, and the nativist’s position that some knowledge is unconscious; I would strongly urge anyone to consider nativism a strong combatant for epistemological dominance over empiricism.   
 
-## Works Cited
-
-- Plato.  Meno.  (86c).
-- Mackie, J.L.  Problems from Locke.  Clarendon Press.  Oxford. 1976.
-- Locke, J.  An Essay Concerning Human Understanding.  Book II, Chapter xxiii, Section 1.  The format of this quote is taken from the text cited above, pg. 73.   
-- Locke, J.  An Essay Concerning Human Understanding.  Book I, Chapter ii, Section 4.
-- Locke, J.  An Essay Concerning Human Understanding.  Book I, Chapter ii, Section 5.
-- IBID.  
-- Locke, J.  An Essay Concerning Human Understanding.  Book II, Chapter x, Section 2.    
-- IBID.
-- IBID.
-- Binary information is physically stored as 1’s and 0’s.  The 1’s representing the presence of a magnetic charge and the 0’s representing the absence of a magnetic charge.  It is of special importance that the computer creates a physical change in the hard drive.  
-- IBID.  
 
 ## Footnotes
 

@@ -33,10 +33,6 @@ The sole difference between affirming and implying existence is the question “
 Strawson’s definitions of the use and utterance of sentences and expressions leave much to be desired in the way of a formal theory of description.  Unfortunately, his definitions also leave many of the things we communicate to one another within the realm of nonsense.  We all live under the “guise of meaningful communication” yet his theory cannot create necessary meaningfulness.  When I make propositions about non-existent entities others can use my statements to make further propositions and decisions which directly relate to action.  My words of encouragement on the football field, “Can’t nobody stop THE HYPE”, certainly spur others listening to spirit and can even affect the outcome of the game.  Strawson’s account leaves statements of this kind outside the realm of meaningfulness because they do not refer to any existing “hype” or because they imply the existence of some “hype” which does not actually exist.  But the “hype” to which I am referring is spiritual and spiritual statements carry enough meaning to cause war, death, and love.
 Ultimately, both theories fall short of the actual nature of communication.  Certainly, Russell’s logical descriptions have their place in a “web-of-belief” which affects how I interact with the world.  As I write this essay, I am formally applying his very ideas.   No less certainly, usage carries the weight of meaning because usage depends on context.   Meaning cannot be evaluated without context.  And humans cannot exist without context.  While riding the fence is not a good philosophical standpoint, in the case of Strawson and Russell and their competing theories of description, it is the only reasonable standpoint.
 
-## Works Cited
-
-- Russell, Bertrand.  “On Denoting.”  Analytic Philosophy: An Anthology.  (2001): 32-40.
-- Strawson, P.F.  “On Reference.”  Analytic Philosophy: An Anthology.  (2001): 41-54.
 
 ## Footnotes
 

@@ -15,3 +15,4 @@ Topics include:
 
 > “Truth is not what underwrites usefulness — usefulness is what explains our confidence in truth.”
 ```
+See consolidated references in [references.md](references.md).
