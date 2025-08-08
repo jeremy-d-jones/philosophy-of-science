@@ -6,21 +6,27 @@ date: "2006-12-07"
 slug: "humes-pragmatism"
 draft: false
 ---
+
 <link rel="stylesheet" href="/assets/style.css">
+
 <header class="paper-header">
   <h1>{{ page.title }}</h1>
   <p>
     <span class="author">{{ page.author }}</span><br/>
     <span class="course">{{ page.course }}</span><br/>
-    <span class="date">{{ page.date | date: "%−d %B %Y" }}</span>
+    <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
   </p>
 </header>
 
-Jeremy Jones
-Empiricism
+---
 
-7 December 2006
-# Hume’s Pragmatism
+# Hume’s Pragmatism  
+**Author:** Jeremy Jones  
+**Course:** Empiricism  
+**Date:** 7 December 2006  
+
+---
+
 In A Treatise of Human Nature[^treatise] David Hume outlines the true nature of causal reasoning.  He argues that causal reasoning is rooted in the imagination, not the understanding, because we have no sensory impressions of causation.  While his argumentation is relatively uncontroversial, the implications and intentions behind his argument are the subject of debate.  Some philosophers interpret his argument as a skeptical denial of causal reasoning that is itself an instance of unfounded induction.  Other philosophers describe Hume as an early cognitive psychologist because they interpret his Treatise (1.3.6) as a description of the process of causal reasoning not an attack on the justification of causal reasoning.  
 I will begin this essay with a description of Hume’s thought from Treatise (1.3.6).  I will then argue against the skeptical interpretation of Hume and show that while Hume presents a ‘mild’ skepticism we cannot label him a skeptic because he does not believe that causal reasoning is without epistemological value.  Next, I will argue that Hume cannot be called a cognitive psychologist because he is attempting to justify causal reasoning in Treatise (1.3.6).  Then I will show that Hume’s position embodies portions of both skepticism and cognitive psychology but cannot be fully described by either. Furthermore, the most appropriate philosophical tradition we can place the Hume of Treatise (1.3.6) in is the tradition of Pragmatism.  Finally, I will argue that we are justified in calling Hume a pragmatist because he embodies the four main characteristics of the Pragmatic tradition. 
 
@@ -32,6 +38,7 @@ Hume believes that there must be some necessary connection between what we label
 Constant conjunction is the occurrence of object 'X' with object 'Y' every time I observe 'X'.  For example, when I eat chili and then feel satisfied it is not the chili causing the satisfaction that I observe; but merely the occurrence of eating chili followed by the occurrence of feeling satisfied.  However, since I have always observed one followed by the other I assume that they are necessarily connected.    While I might be correct in assuming their necessary connection in my past experiences, Hume, does not believe I am demonstratively justified in believing that all future instances will proceed like those in the past because it is not necessary that I believe the future will act in the same manner as the past.  He states that there can be “no demonstrative arguments to prove, that those instances, of which we have had no experience, resemble those, of which we have had experience.”  The mere fact that he can question the uniformity of nature prevents him from believing that the understanding requires anyone to believe in the uniformity of nature (Hume 1.3.6.5).
 Consider the causal claim; “if I go to the doctor when sick, I will get cured.”  This claim is not necessarily true.  However, the doctor has before cured me and people I know; so why would I not believe that he can cure me in this instance?  When pressed I must admit that I do not know if going to the doctor will cure me but that I believe there is a better possibility of my being cured there than if I stay home.  However, this would seem to show that causal reasoning is predicated upon some form of probability.  However, Hume does not believe that causal reasoning can be predicated upon any form probability.  When making a claim about the probability of 'X' occurring I draw from my past experiences of 'X' – if I had no experience of 'X' any probability claim I make would be completely unjustified – and from my ideas about 'X'.  Yet, all my ideas about 'X' are stemmed from my experiences of – and causal reasoning about – 'X'.  It would be a fallacy to support my causal reasoning about 'X' with a probability claim, which itself, relies upon a causal reasoning co-joined with my experiences of 'X'.  As Hume puts it, “the same principle cannot be both the cause and effect of another...” (Hume 1.3.6.7).      
 In spite of his belief that our causal reasoning is demonstratively unjustifiable he does believe that we use causal reasoning.  He believes that the imagination is responsible for our inferences from cause to effect (Hume 1.3.6.12).  The imagination is governed by the general principles of resemblance, contiguity, and causation.  But how can causation help govern the imagination when the imagination governs our causal reasoning?  Hume believes that causation is a natural relation and goes so far as to call causation a “universal principle” (Hume 1.1.4.1).  
+
 ## Part II: Implications and Justifications
 'Skeptic' is a label which has been applied to Hume.  His argument in Treatise (1.3.6) does appear skeptical.  Yet, we are not justified when attributing to him a ‘full’ skepticism about causal reasoning.  Hume believes that we are still forced to use causal reasoning in order to navigate the world.  Unlike the skeptic, Hume does not believe that causal reasoning lacks all epistemological power.  Rather, Hume believes that causal reasoning lacks the fullest epistemological power that a ‘truth’ would possess (Garrett 92).  Our imagination helps us design, plan, and execute: structures, methods, and solutions.  Therefore, our imagination is heavily involved in some of our most powerful epistemological processes.  His most skeptical point is that he argues for a limitation to what we say we are demonstrably justified in believing.  He denies that we can demonstrably justify our belief in causal reasoning and the belief that the world will continue to behave as it has in the past.  Yet, the inability to demonstrably justify these claims is not skepticism if Hume justifies these claims via another method.  Before illustrating how Hume justifies causal reasoning – and for what reason – we will examine the second troublesome interpretation of Hume.     
 Hume has been labeled a cognitive psychologist, for the reason that it seems that he is only describing the process by which we come to utilize causal reasoning.  Don Garrett argues that Hume’s argument at Treatise (1.3.6) “directly concerns the causation of inductive inference – a question in cognitive psychology – rather than the justification of such inferences…” (Garrett 94).  This position is at best misleading.  Hume is concerned with the causation of inductive inferences but he is also concerned with the justification of causal reasoning.  If he were not concerned with the justification of causal reasoning it would not be necessary for him to describe causation as a natural and necessary principle.  If he were merely describing the inductive process of causal reasoning – without an attempt to justify it – he would not be absolved of the inconsistency of utilizing causal reasoning elsewhere in the Treatise.  Hume cannot reconcile his mild skepticism of causal reasoning with his use of causal reasoning by merely acknowledging his position’s inconsistency.  He must – and does – justify his use of causal reasoning via a method which is consistent with the mild form of skepticism he is introducing.  
@@ -45,30 +52,10 @@ Donald S. Mackey enumerated four main characterizes of Pragmatism which were emb
 Hume clearly meets the first and second criterion.  His claims about the necessity of experience to knowledge are an instantiation of the first criteria and his grounding of causal reasoning in habit supports the second.  His claims about the necessity of assuming the presence of a body are symptomatic of the third criterion.  Finally, his claims to “beat about all the neighboring fields” until finding the answers that are desired is at least an experimental attitude.  Therefore, Hume meets the four main criteria of the pragmatists and a pragmatic interpretation of Treatise (1.3.6) provides the best explanation of his arguments about causality and his use of causal reasoning.  
 After observing Hume’s argument in Treatise (1.3.6) we have seen that his argument against induction is intended to introduce a ‘mild’ form of skepticism.  Any statement calling Hume a ‘skeptic’ is an overstatement of the facts.  He is, at most, mildly skeptical about grounding causal reasoning demonstratively and instead supports causal reasoning with a pragmatic approach.  Therefore, although there is a touch of skepticism in his argument it is unfit to label Hume a ‘skeptic’.  It is equally inadequate to call Hume a cognitive psychologist.  He is describing the process we use to make inductive inferences but is attempting to justify causal reasoning on the proper grounds – namely, their effectiveness – which is a pragmatic approach to the problem.  Even though labeling Hume a cognitive psychologist would absolve him of most of the apparent inconsistencies of Treatise (1.3.6) it requires us to deny that he is attempting to justify causal reasoning at all.  It is apparent from his argument that he is attempting to justify causal reasoning but the method is not apparent at first blush.  We see that Hume is grounding causal reasoning in its own utility and universality.  Therefore, we conclude that Hume must be using a pragmatic approach to Treatise (1.3.6) because there is no other philosophical tradition or cognitive science which will allow him to employ causal reasoning and justify it without a demonstrative argument.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Footnotes
 
 [^treatise]: Hume, David. A Treatise of Human Nature. Ed. David F. Norton and Mary J. Norton. Oxford: Oxford UP, 2002.
 [^mackey]: Mackey, Donald S. "Pragmatism." A History of Philosophical Systems. Ed. Vergilius Ferm. New York: The Philosophical Library, 1950. 387-404.
 [^mathur]: Mathur, G B. "Hume and Kant in Their Relation to the Pragmatic Movement." Journal of the History of Ideas 16.2 (1955): 198-208. JSTOR.
-
