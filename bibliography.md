@@ -1,4 +1,4 @@
-# Works Cited
+# Bibliography
 
 - Armstrong, D. M. "The Nature of Mind." In *Analytic Philosophy: An Anthology*. Blackwell, 2001, pp. 237–244. [Link](https://www.uv.es/~fores/programa/ArmstrongTheNatureOfMind.pdf).
 
