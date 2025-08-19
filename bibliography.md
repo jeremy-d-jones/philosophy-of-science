@@ -1,6 +1,6 @@
 # Works Cited
 
-ç- Armstrong, D. M. "The Nature of Mind." In *Analytic Philosophy: An Anthology*. Blackwell, 2001, pp. 237–244. [Link](https://www.uv.es/~fores/programa/ArmstrongTheNatureOfMind.pdf).
+- Armstrong, D. M. "The Nature of Mind." In *Analytic Philosophy: An Anthology*. Blackwell, 2001, pp. 237–244. [Link](https://www.uv.es/~fores/programa/ArmstrongTheNatureOfMind.pdf).
 
 - Cohen, Marc. "Meno's Paradox." American Academy of Religion. University of Washington, 11 Dec. 2000. Accessed 16 Mar. 2006. [Link](http://www.aarweb.org/syllabus/syllabi/c/cohen/phil320/menopar.htm).
 
