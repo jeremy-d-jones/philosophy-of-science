@@ -6,6 +6,7 @@ date: "2006-03-05"
 slug: "strawson-and-definite-description"
 draft: false
 ---
+
 **Author:** Jeremy Jones  
 **Course:** Anglo-American Philosophy
 **Date:** 5 March 2006
