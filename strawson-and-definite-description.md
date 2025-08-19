@@ -11,6 +11,8 @@ draft: false
 **Course:** Anglo-American Philosophy
 **Date:** 5 March 2006
 
+---
+
 # Strawson and Definite Description
 
 P. F. Strawson in his essay On Referring defines what he calls the “uniquely referring use” of expressions.  Such expressions typically involve the use of singular subject-predicate sentences.  These were the types of expressions dealt with by Bertrand Russell in his Theory of Descriptions[^russell-refs].  Strawson intends to show that Russell misunderstood the nature of these expressions by outlining Russell’s theory then subsequently illustrating its problems.  I intend to show that Strawson’s theory, so far as it can be called one, is indicative of the context driven nature of language and written communication, at least in the English speaking world.  I also intend to show that Russell’s Theory of Descriptions is sufficient for the Logician or Computer Scientist but lacks the ability to cope with the semantic nature of human communication.

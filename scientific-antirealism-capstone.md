@@ -13,6 +13,8 @@ draft: false
 **Course:** Capstone 
 **Date:** 15 April 2007
 
+---
+
 # Scientific Antirealism
 
 ## Introduction
