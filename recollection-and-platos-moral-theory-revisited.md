@@ -6,14 +6,6 @@ date: "2006-03-19"
 slug: "recollection-and-platos-moral-theory-revisited"
 draft: false
 ---
-<header class="paper-header">
-  <h1>{{ page.title }}</h1>
-  <p>
-    <span class="author">{{ page.author }}</span><br/>
-    <span class="course">{{ page.course }}</span><br/>
-    <span class="date">{{ page.date | date: "%−d %B %Y" }}</span>
-  </p>
-</header>
 
 In Recollection and Plato’s Moral Theory Terence Irwin argues for the incompatibility of the craft analogy and the Theory of Recollection in Socrates epistemology.  Irwin believes that the craft analogy is supported in the early Socratic Dialogues but that after the introduction of the Theory of Recollection the craft analogy is unsupported.  Since the Theory of Recollection is first given in Meno and Phaedo, Irwin believes that Plato realized the incompatibility of these two forms of epistemology and sought the Theory of Recollection as a replacement to the craft analogy.  Irwin argues that for the first time there is a separation between what Socrates thought and what Plato believed.  I do not intend to deny developmentalism in the dialogues, but I do not believe that Irwin can postulate it on the apparent differences between the Socratic dialogues and Meno and Phaedo.  Rather, I will show that the craft analogy and the Theory of Recollection are compatible given the distinction between knowledge and true belief presented in Meno by Socrates.  Furthermore, I will show that Socrates’ idea of “recollection” is synonymous with neither learning nor teaching because “recollection” is the justification of true belief that takes place after death.  All apparent references to recollection in this world are postulated before Socrates draws the distinction between true belief and knowledge and are merely an expedient to encourage philosophic dialogue.      
 

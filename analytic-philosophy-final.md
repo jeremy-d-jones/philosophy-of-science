@@ -7,19 +7,6 @@ slug: "analytic-philosophy-final"
 draft: false
 ---
 
-<link rel="stylesheet" href="/assets/style.css">
-
-<header class="paper-header">
-  <h1>{{ page.title }}</h1>
-  <p>
-    <span class="author">{{ page.author }}</span><br/>
-    <span class="course">{{ page.course }}</span><br/>
-    <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
-  </p>
-</header>
-
----
-
 # Analytic Philosophy Final  
 **Author:** Jeremy Jones  
 **Course:** Analytic Philosophy  
